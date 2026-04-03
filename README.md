@@ -1,7 +1,5 @@
 ## Title of Your Project: - Exploring the Impact of Musical Features on Track Popularity: A Spotify Data Analysis
 
-#### Full Names of Team Members: (In alphabetical order)
-#### 2. Gangadhar Singh Shiva 
 
 ##### Short Description of Your Project and Objectives: 
 
